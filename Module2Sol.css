@@ -1,0 +1,195 @@
+
+
+body {
+    background-color: blanc;
+}
+
+h1 {
+	margin-top: 40px;
+	font-size: 2.33em;
+  text-align: center;
+	color: black;}
+
+p {
+	
+	 width: 200px;
+    font-size: 1.30em;
+    height: 30px;
+    border: 1px solid black;
+    right: 0px;
+    text-align: center;
+    margin: 0;
+	  position: absolute;
+      top: 0px;}
+
+section {
+	margin-top: 30px;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: Verdana;
+    color: white;
+     font-style:italic
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .Y1, .Y2, .Y3, .Y4, .Y5, .Y6, .Y7, .Y8, .Y9, .Y10, .Y11, .Y12 {
+    float: left;
+  }
+  .Y1 {
+    width: 8.33%;
+  }
+  .Y2 {
+    width: 16.66%;
+  }
+  .Y3 {
+    width: 25%;
+  }
+  .Y4 {
+    width: 33.33%;
+  }
+  .Y5 {
+    width: 41.66%;
+  }
+  .Y6 {
+    width: 50%;
+  }
+  .Y7 {
+    width: 58.33%;
+  }
+  .Y8 {
+    width: 66.66%;
+  }
+  .Y9 {
+    width: 74.99%;
+  }
+  .Y10 {
+    width: 83.33%;
+  }
+  .Y11 {
+    width: 91.66%;
+  }
+  .Y12 {
+    width: 100%;
+  }
+}
+@media (max-width: 767px) {
+  .G1, .G2, .G3, .G4, .G5, .G6, .G7, .G8, .G9, .G10, .G11, .G12 {
+    float: left;
+  }
+  .G1 {
+    width: 8.34%;
+  }
+  .G2 {
+    width: 16.67%;
+  }
+  .G3 {
+    width: 26%;
+  }
+  .G4 {
+    width: 33.34%;
+  }
+  .G5 {
+    width: 41.67%;
+  }
+  .G6 {
+    width: 51%;
+  }
+  .G7 {
+    width: 58.34%;
+  }
+  .G8 {
+    width: 66.67%;
+  }
+  .G9 {
+    width: 74.100%;
+  }
+  .G10 {
+    width: 83.34%;
+  }
+  .G11 {
+    width: 91.67%;
+  }
+  .G12 {
+    width: 100%;
+  }
+}
+@media (min-width: 992px)  {
+  .X1, .X2, .X3, .X4, .X5, .X6, .X7, .X8, .X9, .X10, .X11, .X12 {
+    float: left;
+  }
+  .X1 {
+    width: 8.33%;
+  }
+  .X2 {
+    width: 16.66%;
+  }
+  .X3 {
+    width: 25%;
+  }
+  .X4 {
+    width: 33.33%;
+  }
+  .X5{
+    width: 41.66%;
+  }
+  .X6{
+    width: 50%;
+  }
+  .X7 {
+    width: 58.33%;
+  }
+  .X8 {
+    width: 66.66%;
+  }
+  .X9 {
+    width: 74.99%;
+  }
+  .X10 {
+    width: 83.33%;
+  }
+  .X11{
+    width: 91.66%;
+  }
+  .X12 {
+    width: 100%;
+  }
+}
+.mourad_moufakir {
+	
+	margin-left: 10px;
+  margin-right: 10px; 
+  padding: 20px;
+	margin-bottom: 40px;
+	top: 40px;
+  background-color: #9E9E9E ;
+	border: 1px solid blanc;
+	position: relative;
+}
+
+.XX1 {
+	width: 100%;
+}
+
+.chiken {
+	background-color: #cc3300
+;
+	color: black;
+}
+
+.beef {
+	background-color: #ff0000;
+	color: blanc;
+}
+
+.sushi {
+	background-color: #ff9900
+;
+	color: black;
+}
+
+
+
+
